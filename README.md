@@ -19,6 +19,8 @@ Live Dashboard: https://public.tableau.com/app/profile/anuj.pathirage2242/viz/Sp
 
 
 
+
+
 Data Source**
 This project's analysis is based on the "Top Spotify songs in 73 countries - daily updated" dataset, sourced from Kaggle.
 Dataset Link: https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
@@ -26,7 +28,11 @@ Dataset Link: https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-
 
 
 
+
+
 This repository contains the following files:
+
+
 
 spotify.ipynb: The Jupyter Notebook with all the Python code for data cleaning, preprocessing, and exploratory data analysis.
 
@@ -40,7 +46,12 @@ README.md: This file, which provides an overview of the project.
 
 
 
+
+
 Technologies Used
+
+
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook
