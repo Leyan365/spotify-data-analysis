@@ -1,5 +1,9 @@
 Global Spotify Streaming Trends Dashboard
+
+
 Project Description
+
+
 This project provides an end-to-end analysis of music popularity trends using a dataset of daily charts from Spotify. The goal was to uncover key insights into what drives a song's popularity, whether it's related to its audio features or broader market and temporal factors.
 
 The analysis was conducted in Python using libraries such as Pandas, NumPy, and Matplotlib. The key findings were then visualized on an interactive dashboard created with Tableau Public.
@@ -21,6 +25,7 @@ Dataset Link: https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-
 
 
 
+
 This repository contains the following files:
 
 spotify.ipynb: The Jupyter Notebook with all the Python code for data cleaning, preprocessing, and exploratory data analysis.
@@ -30,6 +35,8 @@ Spotify Music Analytics Dashboard.twbx: The Tableau workbook file for the intera
 .gitignore: Specifies files (like the large CSV) to be ignored by Git.
 
 README.md: This file, which provides an overview of the project.
+
+
 
 
 
